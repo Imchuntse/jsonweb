@@ -1,0 +1,30 @@
+{
+    "name": "jsonclasses-website",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "11.1.0",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-syntax-highlighter": "^15.4.4"
+    },
+    "devDependencies": {
+        "@linaria/babel-preset": "^3.0.0-beta.7",
+        "@linaria/core": "^3.0.0-beta.4",
+        "@linaria/react": "^3.0.0-beta.7",
+        "@linaria/shaker": "^3.0.0-beta.7",
+        "@types/react": "17.0.19",
+        "@types/react-syntax-highlighter": "^13.5.2",
+        "core-js": "^3.16.3",
+        "eslint": "7.32.0",
+        "eslint-config-next": "11.1.0",
+        "next-linaria": "^0.11.0",
+        "typescript": "4.4.2"
+    }
+}
